@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a full stack e-commerce application using Ruby on Rails, React.js, React Native, pain and raige.
+- 🔭 I’m currently working on a full stack e-commerce application using Ruby on Rails, React.js, React Native and Pain.
 - 🌱 I’m currently learning everything. 🤓
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help to find out if this is all real, someone?! 
