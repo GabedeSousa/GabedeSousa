@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently developing a full stack e-commerce Web and Mobile using RoR, React.js, React Native and Pain.
+- 🔭 I’m currently developing a full stack e-commerce application using RoR, React.js, React Native and Pain.
 - 🤯 I’m always learning something new.
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help to find out if this is all real, someone?! 
